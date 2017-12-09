@@ -1,5 +1,3 @@
-Lang Gao CS410 A3
-
 README
 This program 'myshell' emulates the basic functionalities of a c shell.
 compilation : use the accompanying makefile
